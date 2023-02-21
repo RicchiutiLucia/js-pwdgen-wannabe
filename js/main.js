@@ -12,4 +12,4 @@ const myColor = prompt ('Inserisci il tuo colore preferito');
 
 const currentYear = 23;
 
-document.getElementById('password').innerHTML = `La tua password è: ${myName} ${mySurname} ${myColor} ${currentYear}`
+document.getElementById('password').innerHTML = `La tua password è: ${myName}${mySurname}${myColor}${currentYear}`
